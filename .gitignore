@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+models/
+opencv/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+exe.txt
